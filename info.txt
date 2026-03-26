@@ -4,10 +4,11 @@
 Find the hidden keyword to unlock the system.
 
 [DATA_RECOVERY]
-Encrypted_Data_Part_2: .Y29tL2Fub255bW9zX3YxLw==
+Encrypted_Data : .Y29tL2Fub255bW9zX3YxLw==
 
 [INSTRUCTIONS]
 
  Enter the keyword to finish the challenge.
 
 [SECURITY STATUS]
+Encryption Level: High
