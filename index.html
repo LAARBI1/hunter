@@ -1,29 +1,29 @@
 <!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>نظام الاختراق المفقود 🔐</title>
+    <title>The Lost Encryption System 🔐</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
     <div class="card">
-        <h1>🛠️ وحدة فك التشفير</h1>
-        <p>النظام مغلق. اجمع البيانات من الصورة والملف لكسر الحماية.</p>
+        <h1>🛠️STATUS: SYSTEM_LOCKED</h1>
+        <p>> ACTION: Collect all fragmented data to decrypt system...</p>
         
         <div class="image-section">
             <img src="system.jpg" id="hackerImg" alt="Data_Inside" onclick="revealHiddenData()">
-            <p class="tip">نصيحة: ابحث داخل بيانات الصورة (اضغط عليها)</p>
+            <p class="tip"></p>
         </div>
 
         <a href="info.txt" download="info.txt" class="btn-download">
-            📂 تحميل ملف المعلومات (info.txt)
+            📂 Download Info File (info.txt)
         </a>
 
         <div class="input-area">
-            <input type="text" id="flagInput" placeholder="أدخل الشفرة النهائية..." autocomplete="off">
-            <button onclick="validateSolution()">تأكيد الشفرة</button>
+            <input type="text" id="flagInput" placeholder="Enter the Secret Keyword..." autocomplete="off">
+            <button onclick="validateSolution()">Verify Key</button>
         </div>
 
         <p id="feedback"></p>
