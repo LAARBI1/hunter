@@ -1,9 +1,13 @@
--- ملف بيانات النظام المسترجع (info.txt) --
+-- SYSTEM INFORMATION RECOVERY (info.txt) --
 
-1. الجزء الثاني من الشفرة هو: Hunter_
+[TASK]
+Find the hidden keyword to unlock the system.
 
-2. لفك الجزء الثالث المستخرج من الصورة (2026_Gmbh):
-   استخدم مفتاح الإزاحة الخلفي حرفاً واحداً (-1).
-   أمثلة: (B تعني A)، (G تعني F)، (M تعني L).
+[DATA_RECOVERY]
+Encrypted_Data_Part_2: .Y29tL2Fub255bW9zX3YxLw==
 
-تنبيه: اجمع الأجزاء الثلاثة بالترتيب وضعها في حقل الإدخال.
+[INSTRUCTIONS]
+
+ Enter the keyword to finish the challenge.
+
+[SECURITY STATUS]
